@@ -5,4 +5,4 @@ export const VITE_FIREBASE_STORAGE_BUCKET = import.meta.env.VITE_FIREBASE_STORAG
 export const VITE_FIREBASE_MESSAGING_SENDER_ID = import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID
 export const VITE_FIREBASE_APP_ID = import.meta.env.VITE_FIREBASE_APP_ID
 export const VITE_FIREBASE_MEASUREMENT_ID = import.meta.env.VITE_FIREBASE_MEASUREMENT_ID
-export const VITE_BACKEND_URL = import.meta.env.BACKEND_URL || 'http://localhost:3001'
+export const VITE_BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001'
